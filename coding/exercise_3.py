@@ -1,0 +1,8 @@
+'hello'
+'1213'
+'98.1'
+'John'
+'friday is the best day'
+'the little brown fox'
+'0.234'
+'79'
